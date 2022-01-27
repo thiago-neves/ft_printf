@@ -11,9 +11,9 @@
 This project consists of coding a library that contains a simplified version of the printf function.
 
 ##  📋 Contents
-- [Getting Started]()
-- [Makefile commands]()
-- [Available flags]()
+- [Getting Started](https://github.com/thiago-neves/ft_printf#-getting-started)
+- [Makefile commands](https://github.com/thiago-neves/ft_printf#-makefile-commands)
+- [Available flags](https://github.com/thiago-neves/ft_printf#%EF%B8%8F-available-flags)
 ## 🏁 Getting Started
 
 To compile the project you just need to use the command `make` in the terminal and execute the .a file in your main function, the ft_printf function exactly as the original printf with fewer available flags (see below).
